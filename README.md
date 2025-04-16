@@ -25,3 +25,12 @@ tomto-restaurant/
 ├── public/             
 │   └── menu/           # Menu images
 └── styles/             # Global styles
+````
+
+## Getting Started
+1. Clone the repository
+2. Install dependencies: npm install
+3. Run the development server: npm run dev
+4. Open http://localhost:3000
+## Live Demo
+https://tomto-restaurant-f5adqitsc-tailooors-projects.vercel.app/
